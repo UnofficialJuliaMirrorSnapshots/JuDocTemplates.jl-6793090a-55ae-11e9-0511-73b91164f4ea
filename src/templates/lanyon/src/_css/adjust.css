@@ -4,8 +4,8 @@ html {
 
 .jd-content {
     position: relative;
-    padding-left: 8%;
-    padding-right: 5%;
+    padding-left: 0;
+    padding-right: 0;
     line-height: 1.35em; }
 
 /* on wide screens, fix content width to a max value */
