@@ -2,10 +2,11 @@
 
 Templates for [JuDoc](https://github.com/tlienart/JuDoc.jl), the static-site generator in Julia.
 
-Most of these templates are adapted from popular existing templates with minor modifications to accommodate JuDoc's content.
+Most of these templates are adapted from existing, popular templates with minor modifications to accommodate JuDoc's content.
 
 | Name | Source | License | Nabar | JS  |
 | ---- | ------ | ------- | ----- | --- |
+| `"sandbox"`  | N/A    | MIT     | N/A | No |
 | `"basic"`  | N/A    | MIT     | Top | No |
 | `"hypertext"` | [grav theme hypertext](https://github.com/artofthesmart/hypertext) | [MIT](https://github.com/artofthesmart/hypertext/blob/master/LICENSE) | Top | No |
 | `"pure-sm"` | [pure css](https://purecss.io/layouts/side-menu/) | [Yahoo BSD](https://github.com/pure-css/pure-site/blob/master/LICENSE.md) | Side | No |
